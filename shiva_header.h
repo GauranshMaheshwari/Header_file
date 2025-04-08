@@ -1,5 +1,4 @@
 #ifndef SHIVA_HEADER
-#define SHIVA_HEADER
 int square(int num) {
     return num * num;
 }
